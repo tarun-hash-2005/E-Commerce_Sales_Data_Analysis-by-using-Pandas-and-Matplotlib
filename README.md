@@ -92,10 +92,28 @@ ecommerce-sales-analysis/
 
 ---
 
-## 🤝 Connect With Me
 
-I am actively seeking opportunities in Data Analytics. Feel free to connect and share feedback!
+
+## 👨‍💻 About Me
+
+**Tarun Kumar Sengar**
+
+Aspiring **Data Analyst** with expertise in **Excel, SQL, Power BI, Python, and Pandas**. Passionate about transforming raw data into actionable insights through interactive dashboards and data-driven storytelling.
+
+📧 **Email:** kumarsengartarun@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/tarun-kumar-sengar-21609a284
 
 ---
 
-⭐ If you found this project useful, consider giving it a star!
+
+## ⭐ If you found this project useful, please consider giving it a Star!
+
+Your support motivates me to build more real-world Data Analytics projects and share them with the community.
+
+---
+
+
+## 📄 License
+
+This project is released under the **MIT License** and is intended for educational and portfolio purposes.
